@@ -6,47 +6,47 @@
     </ThaiFood>
     <ThaiFood>
         <FoodID>002</FoodID>
-        <FoodName>ไข่ตุ๋นทะเลหม้อไฟ</FoodName>
-        <price>80บาท</price>
+        <FoodName>กบทอด</FoodName>
+        <price>90บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>003</FoodID>
-        <FoodName>แกะอบใต้ดิน</FoodName>
+        <FoodName>เนื้อแพะย่าง</FoodName>
         <price>4000บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>004</FoodID>
-        <FoodName>กบทอด</FoodName>
-        <price>70บาท</price>
+        <FoodName>จิ้งจกทอด</FoodName>
+        <price>20บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>005</FoodID>
-        <FoodName>คะน้าหมูกรอบ</FoodName>
+        <FoodName>คะน้าปลาเค็ม</FoodName>
         <price>60บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>006</FoodID>
-        <FoodName>ก๋วยเตี๋ยวต้มยำหมูโบราณ</FoodName>
+        <FoodName>ก๋วยเตี๋ยวหนูนา</FoodName>
         <price>70บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>007</FoodID>
-        <FoodName>ต้มยำไก่</FoodName>
-        <price>100บาท</price>
+        <FoodName>ต้มยำไก่กัญชา</FoodName>
+        <price>200บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>008</FoodID>
-        <FoodName>ตำไทย</FoodName>
-        <price>40บาท</price>
+        <FoodName>คุกี้กัญชา</FoodName>
+        <price>90บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>009</FoodID>
-        <FoodName>ตำข้าวโพดไข่เค็ม</FoodName>
-        <price>50บาท</price>
+        <FoodName>ยำใส้ไหล</FoodName>
+        <price>90บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>010</FoodID>
-        <FoodName></FoodName>
+        <FoodName>ปลาฉลามน้ำแดง</FoodName>
         <price>50บาท</price>
     </ThaiFood>
 </Food>
