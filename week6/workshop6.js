@@ -26,7 +26,7 @@ var Order = [{
     "price": [item[2].price, item[0].price]
 },
 {
-    "customer": "Mr.Bigg",
+    "customer": "Mr.SAM",
     "itemOrder": [item[0].name, item[1].name, item[2].name],
     "Qty": [2, 3, 4],
     "price": [item[0].price, item[1].price, item[2].price]
