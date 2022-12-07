@@ -13,3 +13,4 @@ console.log("Mr.Yue", item.FlashDrive * 2 + item.A4paper * 3)
 
 //Mr.fuxsexrok
 console.log("Mr.fuxsexrok", item.Pencil * 5 + item.Ruler * 2 + item.FlashDrive * 3)
+yh
