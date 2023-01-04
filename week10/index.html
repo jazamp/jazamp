@@ -30,7 +30,12 @@
             let obj = JSON.parse(this.responseText);
 
             for(i=0;i<obj.length; i++){
-             temp += '<tr><td>'+obj[i].movieName+'</td></tr>'
+             temp += 
+             '<tr><td>'+obj[i].movieName+'</td></tr>'
+             '<br>' +
+             '<iframe src="' + obj[i].trailer + '"></iframe>'+
+             '<td>'+
+            '</tr>'
             }
 
             document.getElementById('display').innerHTML = '<table class="table">'+temp+'</table>';
