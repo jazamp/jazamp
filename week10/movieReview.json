@@ -1,100 +1,107 @@
 {
-    "movieReview": [
-        {
-            "id": 1,
-            "movieName": "Violent Night - คืนเดือด",
-            "movieLength": 100,
-            "director": "Tommy Wirkola",
-            "category": "หนังอาชญกรรม",
-            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_11/original/2211171203166y5.jpg",
-            "trailer": "youtube.com/watch?v=a53e4HHnx_s",
-            "review": {
-                "review": "VIOLENT NIGHT - คืนเดือด --- 6.2/10 --- Die Hard + Home Alone + หนังคริสต์มาส นอกจากความโหดที่เป็นจุดขาย เนื้อเรื่องอื่น ๆ บางเบาไปเลย",
-                "score": {
-                    "screenPlay": 5,
-                    "playing": 6,
-                    "music": 7,
-                    "actorSkills": 7,
-                    "graphics": 7,     
-                    "average": 6.2
-                }
-            }
-        },{
-            "id": 2,
-            "movieName": "Sick of Myself - ซิค ออฟ มายเซลฟ์",
-            "movieLength": 95,
-            "director": "Kristoffer Borgli",
-            "category": "หนังตลก",
-            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_11/review/249760_22112123364342.jpg",
-            "trailer": "https://www.youtube.com/watch?v=1sCgMEpQ934",
-            "review": {
-                "review": "SICK OF MYSELF --- ?/10 --- เรื่องราวของหญิงหิวแสง ตรรกะเพี้ยนที่ดูจบแล้วแบบ ห๊ะ!? อะไรวะ?",
-                "score": {
-                    "screenPlay": 5,
-                    "playing": 5,
-                    "music": 5,
-                    "actorSkills": 5,
-                    "graphics": 4,
-                    "average": 0
-                }
-            }
-        },{
-            "id": 3,
-            "movieName": "American Sniper - อเมริกัน สไนเปอร์",
-            "movieLength": 127.2,
-            "director": " Clint Eastwood",
-            "category": "หนังแอคชั่นการต่อสู้",
-            "picture": "https://movie.thaiware.com/upload_misc/movie/2015_01/original/15012210162249.jpg",
-            "trailer": "youtube.com/watch?v=1a4Jhsvoa1k",
-            "review": {
-                "review": "หนังสงครามหลายเรื่องมักจะมีจุดร่วมคล้ายๆ กันที่ทำให้เกิดความซ้ำซากจำเจคือบรรยากาศฉากรบ  ฝั่งแรกคือหนังที่ต้องการเอาความมันยิงถล่มกันตูมตามวิ่งหนีกันอุตลุดดูสนุกเหนือจริงจน และซัดความตื่นเต้นตกอกตกใจใส่เราได้ตลอดเวลา",
-                "score": {
-                    "screenPlay": 7.5,
-                    "playing": 7.5,
-                    "music": 7.5,
-                    "actorSkills": 10,
-                    "graphics": 7,
-                    "average": 8
-                }
-            }
-        },{
-            "id": 4,
-            "movieName": "Resident Evil: The Final Chapter - อวสานผีชีวะ",
-            "movieLength": 110,
-            "director": " Paul W.S. Anderson",
-            "category": "หนังแอคชั่นการต่อสู้",
-            "picture": "https://movie.thaiware.com/upload_misc/movie/2017_01/original/170114090715BI3.jpg",
-            "trailer": "https://www.youtube.com/watch?v=79Sd4GtOXuI",
-            "review": {
-                "review": "ฉากบู๊ทำได้เท่ดี แต่การเล่าเรื่องลำดับมาเข้าฉากบู๊ไร้ศิลปะ บทจะชนะๆ ก็ชนะทื่อๆ จบก็จบทื่อๆ",
-                "score": {
-                    "screenPlay": 8,
-                    "playing": 8,
-                    "music": 7,
-                    "actorSkills": 8.5,
-                    "graphics": 9,
-                    "average": 8
-                }
-            }
-        },{
-            "id": 5,
-            "movieName": "Dunkirk - ดันเคิร์ก",
-            "movieLength": 107,
-            "director": " Christopher Nolan",
-            "category": "หนังรักโรแมนติก",
-            "picture": "https://movie.thaiware.com/upload_misc/movie/2017_06/original/170615122347x7n.jpg",
-            "trailer": "https://www.youtube.com/watch?v=F-eMt3SrfFU",
-            "review": {
-                "review": "เปิดเรื่องด้วยฉากแรกที่มีความน่าติดตามและได้อารมณ์เป็นอย่างมาก พาเราเข้าไปสู่โลกของความกันดาร การเอาตัวรอดอันยากลำบากของเหล่าทหารในสงคราม จากชุมชนหมู่บ้านไปสู่ชายหาดที่เราเห็นกันในตัวอย่างหนัง แทบจะกดดันทุกวินาทีเลยสำหรับตอนแรก แต่หลังจากนั้นก็... อารมณ์นั้น ทะเลนั้น ท้องฟ้านั้นตลอดเรื่องเลยจ้า ",
-                "score": {
-                    "screenPlay": 8,
-                    "playing": 9,
-                    "music": 7,
-                    "actorSkills": 9.5,
-                    "graphics": 9.5,
-                    "average": 8
-                }
-            }
+  "movieReview": [
+    {
+      "id": 1,
+      "movieName": "Violent Night - คืนเดือด",
+      "movieLength": 100,
+      "director": "Tommy Wirkola",
+      "category": "หนังอาชญกรรม",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2022_11/original/2211171203166y5.jpg",
+      "trailer": "youtube.com/watch?v=a53e4HHnx_s",
+      "review": {
+        "review": "VIOLENT NIGHT - คืนเดือด --- 6.2/10 --- Die Hard + Home Alone + หนังคริสต์มาส นอกจากความโหดที่เป็นจุดขาย เนื้อเรื่องอื่น ๆ บางเบาไปเลย",
+        "score": {
+          "screenPlay": 5,
+          "playing": 6,
+          "music": 7,
+          "actorSkills": 7,
+          "graphics": 7,
+          "average": 6.2
         }
-    ]
+      }
+    },
+    {
+      "id": 2,
+      "movieName": "Sick of Myself - ซิค ออฟ มายเซลฟ์",
+      "movieLength": 95,
+      "director": "Kristoffer Borgli",
+      "category": "หนังตลก",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2022_11/review/249760_22112123364342.jpg",
+      "trailer": "https://www.youtube.com/watch?v=1sCgMEpQ934",
+      "review": {
+        "review": "SICK OF MYSELF --- ?/10 --- เรื่องราวของหญิงหิวแสง ตรรกะเพี้ยนที่ดูจบแล้วแบบ ห๊ะ!? อะไรวะ?",
+        "score": {
+          "screenPlay": 5,
+          "playing": 5,
+          "music": 5,
+          "actorSkills": 5,
+          "graphics": 4,
+          "average": 0
+        }
+      }
+    },
+    {
+      "id": 3,
+      "movieName": "American Sniper - อเมริกัน สไนเปอร์",
+      "movieLength": 127.2,
+      "director": " Clint Eastwood",
+      "category": "หนังแอคชั่นการต่อสู้",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2015_01/original/15012210162249.jpg",
+      "trailer": "youtube.com/watch?v=1a4Jhsvoa1k",
+      "review": {
+        "review": "หนังสงครามหลายเรื่องมักจะมีจุดร่วมคล้ายๆ กันที่ทำให้เกิดความซ้ำซากจำเจคือบรรยากาศฉากรบ  ฝั่งแรกคือหนังที่ต้องการเอาความมันยิงถล่มกันตูมตามวิ่งหนีกันอุตลุดดูสนุกเหนือจริงจน และซัดความตื่นเต้นตกอกตกใจใส่เราได้ตลอดเวลา",
+        "score": {
+          "screenPlay": 7.5,
+          "playing": 7.5,
+          "music": 7.5,
+          "actorSkills": 10,
+          "graphics": 7,
+          "average": 8
+        }
+      }
+    },
+    {
+      "id": 4,
+      "movieName": "Resident Evil: The Final Chapter - อวสานผีชีวะ",
+      "movieLength": 110,
+      "director": " Paul W.S. Anderson",
+      "category": "หนังแอคชั่นการต่อสู้",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2017_01/original/170114090715BI3.jpg",
+      "trailer": "https://www.youtube.com/watch?v=79Sd4GtOXuI",
+      "review": {
+        "review": "ฉากบู๊ทำได้เท่ดี แต่การเล่าเรื่องลำดับมาเข้าฉากบู๊ไร้ศิลปะ บทจะชนะๆ ก็ชนะทื่อๆ จบก็จบทื่อๆ",
+        "score": {
+          "screenPlay": 8,
+          "playing": 8,
+          "music": 7,
+          "actorSkills": 8.5,
+          "graphics": 9,
+          "average": 8
+        }
+      }
+    },
+    {
+      "id": 5,
+      "movieName": "Dunkirk - ดันเคิร์ก",
+      "movieLength": 107,
+      "director": " Christopher Nolan",
+      "category": "หนังรักโรแมนติก",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2017_06/original/170615122347x7n.jpg",
+      "trailer": "https://www.youtube.com/watch?v=F-eMt3SrfFU",
+      "review": {
+        "review": "เปิดเรื่องด้วยฉากแรกที่มีความน่าติดตามและได้อารมณ์เป็นอย่างมาก พาเราเข้าไปสู่โลกของความกันดาร การเอาตัวรอดอันยากลำบากของเหล่าทหารในสงคราม จากชุมชนหมู่บ้านไปสู่ชายหาดที่เราเห็นกันในตัวอย่างหนัง แทบจะกดดันทุกวินาทีเลยสำหรับตอนแรก แต่หลังจากนั้นก็... อารมณ์นั้น ทะเลนั้น ท้องฟ้านั้นตลอดเรื่องเลยจ้า ",
+        "score": {
+          "screenPlay": 8,
+          "playing": 9,
+          "music": 7,
+          "actorSkills": 9.5,
+          "graphics": 9.5,
+          "average": 8
+        }
+      }
+    },
+    {
+      "id": 6
+    }
+  ]
 }
